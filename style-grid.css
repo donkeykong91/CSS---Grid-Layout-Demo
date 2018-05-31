@@ -20,6 +20,6 @@
 }
 
 .footer-content {
-  grid-column: 2/2 span;
+  grid-column: 2/3 span;
   grid-row: 4;
 }
